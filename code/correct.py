@@ -1,6 +1,9 @@
-with open('code/flight_prediction_delay.ipynb', 'r') as f:
+
+# old notebook
+with open('../code/flights_prediction.ipynb', 'r') as f:
     lines = f.readlines()
 
-with open('flights_prediction.ipynb', 'w') as f:
+# replace with new notebook
+with open('../code/flights_prediction.ipynb', 'w') as f:
     for line in lines:
         f.write(line.replace('"execution_count": "null"', '"execution_count": null'))
