@@ -5,14 +5,16 @@ This notebook is dedicated to developing a model for predicting flight delays at
 ## Overview
 
 This notebook utilizes Python and several libraries for data manipulation, visualization, and modeling. Key libraries include:
-
+```
+{
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
 - Scikit-learn
 - SciPy
-
+}
+```
 ## Purpose
 
 The main purpose of this notebook is to guide users through the process of building a flight delay prediction model, focusing on:
@@ -27,9 +29,7 @@ The main purpose of this notebook is to guide users through the process of build
 
 1. **Environment Setup**: Ensure you have Python installed on your machine. It's recommended to use a virtual environment for dependency management.
 
-2. **Install Dependencies**: Install the required Python libraries using pip or conda. You can find the list of dependencies in the `requirements.txt` file.
-
-3. **Run the Notebook**: Execute the notebook in your preferred environment (e.g., Jupyter Notebook, JupyterLab, VSCode with Jupyter extension).
+2. **Run the Notebook**: Execute the notebook in your preferred environment (e.g., Jupyter Notebook, JupyterLab, VSCode with Jupyter extension).
 
 ## Usage Instructions
 
@@ -45,9 +45,9 @@ The main purpose of this notebook is to guide users through the process of build
 
 Special thanks to [insert name] for their contributions and insights during the development of this notebook.
 
-## License
+## Source
+https://www.kaggle.com/datasets/usdot/flight-delays/data
 
-This notebook is provided under the [MIT License](LICENSE).
 
 ---
 
