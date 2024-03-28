@@ -6,14 +6,12 @@ This notebook is dedicated to developing a model for predicting flight delays at
 
 This notebook utilizes Python and several libraries for data manipulation, visualization, and modeling. Key libraries include:
 ```
-{
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- SciPy
-}
+Pandas
+NumPy 
+Matplotlib 
+Seaborn 
+Scikit-learn 
+SciPy
 ```
 ## Purpose
 
@@ -41,9 +39,6 @@ The main purpose of this notebook is to guide users through the process of build
 
 4. **Refer to Comments**: Read the comments and markdown cells in the notebook for explanations and insights into each step.
 
-## Acknowledgments
-
-Special thanks to [insert name] for their contributions and insights during the development of this notebook.
 
 ## Source
 https://www.kaggle.com/datasets/usdot/flight-delays/data
